@@ -1,0 +1,6 @@
+{
+  "name": "Smart Campus Resource Management Assistant",
+  "description": "Intelligent campus resource allocation, conflict detection, last-minute emergency reallocation, and utilization analytics for classrooms, laboratories, faculty, and equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
